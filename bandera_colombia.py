@@ -77,6 +77,9 @@ azul = (0,0,250)
 
 rojo = (255,0,0)
 
+pygame.QUIT
+
+
 
 
 
